@@ -1,5 +1,10 @@
 # EX-NO-9-RSA-Algorithm
 
+```
+NAME: B.DHANUSH KUMAR
+REG NO: 212224240034
+```
+
 ## AIM:
 To Implement RSA Encryption Algorithm in Cryptography
 
